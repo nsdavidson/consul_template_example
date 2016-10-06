@@ -1,4 +1,4 @@
 # consul_template_example
 
-TODO: Enter the cookbook description here.
+Quick example of how to use consul-template with Vault
 
